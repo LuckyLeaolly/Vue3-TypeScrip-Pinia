@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.7",
 	"description": "Compositions后台管理系统",
-	"author": "SpicyBoy <848130454@qq.com>",
+	"author": "",
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite",

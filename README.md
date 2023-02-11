@@ -1,4 +1,4 @@
-# Geeker-Admin
+# Vue3-Admin
 
 ### 介绍 📖
 
@@ -102,7 +102,7 @@ npm run commit
 ### 文件资源目录 📚
 
 ```text
-Geeker-Admin
+Vue3-Admin
 ├─ .husky                 # husky 配置文件
 ├─ .vscode                # VSCode 推荐配置
 ├─ public                 # 静态资源文件（该文件夹不会被打包）
